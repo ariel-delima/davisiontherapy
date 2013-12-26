@@ -1,0 +1,33 @@
+http://www.davisvisiontherapy.com/
+
+-background colors need to remain teh same
+
+-info will also be the same except....new website will also have 1) simple defeinition glossory 2) better organized blog and 3) games
+
+-for games its very simple...you dont have to build any games
+I gound few things that we can add code from..its very basic vision learning games
+you just embed teh code
+and one thing he also wanted was this
+http://www.thevisiontherapycenter.com/
+IMG_20122013_012226.png
+a duplicate of this on this website
+its very basic...after you click on What's my score 
+it just adds and show 25 or 20 you will see its very simple live example is on that link
+
+-http://blog.doctorsofoptometry.ca/
+but i want to you to mainly see this
+http://www.davisvisiontherapy.com/blog/
+http://blog.doctorsofoptometry.ca/
+but one thing they dont have is the abilility to search
+
+-secodn thing i want youu to notice is Eye Health Lobrary
+
+FTP access
+Host: rendu.pair.com
+UN: odnet_davist
+PW: 14540Gain
+
+Control Panel
+http://davisvisiontherapy.com:2082/
+davisvis | 8UzWw;q{XC}g
+
