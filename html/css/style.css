@@ -81,7 +81,9 @@ h1,h2,h3,h4,h5,h6,b {
 	padding: 30px;
 }
 #topHeader {
-    margin-bottom: 15px;
+	background-color: #fff;
+    margin-bottom: 32px;
+    border-bottom: 3px solid #46BDA9;
 }
 /*------------lists------------------*/
 .checklist {
@@ -156,6 +158,7 @@ textarea {
 #logo {
 	margin: 0;
 	text-align: center;
+	padding: 15px;
 }
 #logo a {
 	display: block;
