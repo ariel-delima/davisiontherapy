@@ -153,7 +153,10 @@ textarea {
 	margin-right: 0;
 }
 #callUs {
-	margin-right: 20px;
+	float: left;
+    height: 34px;
+    line-height: 34px;
+    margin-right: 20px;
 }
 #logo {
 	margin: 0;
@@ -162,6 +165,28 @@ textarea {
 }
 #logo a {
 	display: block;
+}
+#topRightHeader {
+	padding: 5px 5px 0 0;
+}
+#topnav {
+	float: right;
+}
+#topnav li {
+	float: left;
+	display: block;
+	margin-left: 5px;
+}
+#topnav a {
+	display: block;
+	background-color: #B2D241;
+    color: #FFFFFF;
+    height: 34px;
+    line-height: 34px;
+    padding: 0 12px;
+    text-decoration: none;
+    font-family: 'Open Sans';
+    font-weight: 700;
 }
 /*------------nav------------------*/
 #navHolder {
@@ -452,28 +477,28 @@ textarea {
 	transition: all 0.25s ease-in-out;
 }
 .trainingBox.one {
-	background-color: #E79B16;
+	background-color: #46BDA9;
 	background-image: url(../img/career.png);
 }
 .training_area .grid:hover .trainingBox.one {
 	background-color: #E18D19;
 }
 .trainingBox.two {
-	background-color: #EF533E;
+	background-color: #B2D241;
 	background-image: url(../img/leadership..png);
 }
 .training_area .grid:hover .trainingBox.two {
 	background-color: #DA4B39;
 }
 .trainingBox.three {
-	background-color: #94C03F;
+	background-color: #F7942F;
 	background-image: url(../img/corporate.png);
 }
 .training_area .grid:hover .trainingBox.three {
 	background-color: #71B13C;
 }
 .trainingBox.four {
-	background-color: #BC4778;
+	background-color: #9FDCEF;
 	background-image: url(../img/private.png);
 }
 .training_area .grid:hover .trainingBox.four {
